@@ -1,1 +1,2 @@
 # Smart-Water-Management
+The smart water management project leverages a network of IoT sensors, data analytics, and cloud-based platforms to monitor, control, and manage various aspects of the water supply chain. These aspects include water usage, quality, distribution, and leakage detection. By deploying sensors at different points within the water infrastructure, real-time data is collected, analyzed, and acted upon to optimize water usage and ensure effective management.
